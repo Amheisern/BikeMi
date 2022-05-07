@@ -1,4 +1,7 @@
 {
   "name": "BikeMi",
-  "private": "true"
+  "private": "true",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
 }

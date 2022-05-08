@@ -2,6 +2,7 @@
   "name": "BikeMi",
   "private": "true",
   "dependencies": {
+    "axios": "^0.27.2",
     "git": "^0.1.5",
     "react-router": "^6.3.0"
   }

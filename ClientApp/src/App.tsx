@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router'
-import logo from '../images/logo.png'
+import logo from '../src/images/logo.png'
 import { Landing } from './Pages/Landing'
 
 

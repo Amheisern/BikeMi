@@ -9,7 +9,7 @@ import { Landing } from './Pages/Landing'
 export function App() {
   return <div>
     <header>
-      {/* <img src={logo} className="logo" alt="logo" /> */}
+      <img src={logo} className="logo" alt="logo" />
       <h1>BikeMi</h1>
       <div className="SignIn">Sign In</div>
     </header>

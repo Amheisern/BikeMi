@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router'
-// import logo from '../src/images/logo.png'
+// import logo from '../images/logo.svg'
 import { Landing } from './Pages/Landing'
 
 
@@ -16,6 +16,11 @@ export function App() {
     <Routes>
       <Route path="/" element={<Landing />} />
     </Routes>
-    
+    <footer>
+      <div className="footer">
+        <p>Created by <a href="http://www.amheiser.me">Nicholas Amheiser</a></p>
+        <p>Github repository: <a href="https://github.com/Amheisern"></a>github image</p>
+      </div>
+    </footer>
      </div>
 }
